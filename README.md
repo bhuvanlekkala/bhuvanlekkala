@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @bhuvanlekkala
-- 👀 I’m interested in learning python and become a data analyst or backend developer.
-- 🌱 I’m currently learning python,  but i was confused with online materials.
-- 💞️ I’m looking to collaborate on guidance on python.
+- 👋 Hi, I’m @ Bhuvan
+- 👀 Main Objective of this Repository(storage or conatiner) to help others
+- 🌱 Why this Repo, Expalined in simple terms(Non software) Background
+- 💞️ What Teaches, Currently python and further more.
+- Chill and repeat
 - 📫 How to reach me on Github or linkedin the user mane is bhuvanlekala my name.
 
 <!---
