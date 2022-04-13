@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Bhuvan
 - 👀 Main Objective of this Repository(storage or conatiner) to help others
-- 🌱 Why this Repo, Expalined in simple terms(Non software) Background
+- 🌱 Why this Repo, Expined in simple terms(Non software) Background
 - 💞️ What Teaches, Currently python and further more.
 - Chill and repeat
 - 📫 How to reach me on Github or linkedin the user mane is bhuvanlekala my name.
